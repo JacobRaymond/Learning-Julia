@@ -1,0 +1,2 @@
+# Learning-Julia
+My exercise files from Joe Marini's "Learning Julia" course on LinkedIn Learning
